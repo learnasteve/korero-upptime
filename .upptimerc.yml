@@ -6,12 +6,16 @@ status-website:
   theme: dark
 
 sites:
-  - name: Huanui (login)
-    url: https://lab.let.media.kyoto-u.ac.jp/korero/alive
-  - name: Uranga (dashboard)
-    url: https://lab.let.media.kyoto-u.ac.jp/korero/uranga/health
-  - name: Uranga (db)
-    url: https://lab.let.media.kyoto-u.ac.jp/korero/uranga/health/db
+
+    # chatbots
+  - name: Polly (app)
+    url: https://lab.let.media.kyoto-u.ac.jp/korero/polly/health
+    icon: https://lab.let.media.kyoto-u.ac.jp/korero/static/polly.jpg
+  - name: Polly (llm)
+    url: https://lab.let.media.kyoto-u.ac.jp/korero/polly/health/llm
+  - name: Polly (db)
+    url: https://lab.let.media.kyoto-u.ac.jp/korero/polly/health/db
+    
   - name: Tammy (app)
     url: https://lab.let.media.kyoto-u.ac.jp/korero/tammy/health
     icon: https://lab.let.media.kyoto-u.ac.jp/korero/static/tammy.jpg
@@ -19,12 +23,55 @@ sites:
     url: https://lab.let.media.kyoto-u.ac.jp/korero/tammy/health/llm
   - name: Tammy (db)
     url: https://lab.let.media.kyoto-u.ac.jp/korero/tammy/health/db
+    
   - name: Penny (app)
     url: https://lab.let.media.kyoto-u.ac.jp/korero/penny/health
+    icon: https://lab.let.media.kyoto-u.ac.jp/korero/static/tammy.jpg
   - name: Penny (llm)
     url: https://lab.let.media.kyoto-u.ac.jp/korero/penny/health/llm
   - name: Penny (db)
     url: https://lab.let.media.kyoto-u.ac.jp/korero/penny/health/db
+
+  - name: Archie (app)
+    url: https://lab.let.media.kyoto-u.ac.jp/korero/archie/health
+    icon: https://lab.let.media.kyoto-u.ac.jp/korero/static/archie.jpg
+  - name: Archie (llm)
+    url: https://lab.let.media.kyoto-u.ac.jp/korero/archie/health/llm
+  - name: Archie (db)
+    url: https://lab.let.media.kyoto-u.ac.jp/korero/archie/health/db
+    
+  - name: Percy (app)
+    url: https://lab.let.media.kyoto-u.ac.jp/korero/percy/health
+    icon: https://lab.let.media.kyoto-u.ac.jp/korero/static/percy.jpg
+  - name: Percy (llm)
+    url: https://lab.let.media.kyoto-u.ac.jp/korero/percy/health/llm
+  - name: Percy (db)
+    url: https://lab.let.media.kyoto-u.ac.jp/korero/percy/health/db
+    
+  
+  - name: Debbie (app)
+    url: https://lab.let.media.kyoto-u.ac.jp/korero/debbie/health
+    icon: https://lab.let.media.kyoto-u.ac.jp/korero/static/debbie.jpg
+  - name: Debbie (llm)
+    url: https://lab.let.media.kyoto-u.ac.jp/korero/debbie/health/llm
+  - name: Debbie (db)
+    url: https://lab.let.media.kyoto-u.ac.jp/korero/debbie/health/db
+    
+  - name: Rex (app)
+    url: https://lab.let.media.kyoto-u.ac.jp/korero/rex/health
+    icon: https://lab.let.media.kyoto-u.ac.jp/korero/static/rex.jpg
+  - name: Rex (llm)
+    url: https://lab.let.media.kyoto-u.ac.jp/korero/rex/health/llm
+  - name: Rex (db)
+    url: https://lab.let.media.kyoto-u.ac.jp/korero/rex/health/db
+
+    # services
+   - name: Huanui (login)
+    url: https://lab.let.media.kyoto-u.ac.jp/korero/alive
+  - name: Uranga (dashboard)
+    url: https://lab.let.media.kyoto-u.ac.jp/korero/uranga/health
+  - name: Uranga (db)
+    url: https://lab.let.media.kyoto-u.ac.jp/korero/uranga/health/db
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -43,3 +90,9 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+i18n:
+  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
+
+# TODO 
+# add location: https://gemini.google.com/app/680cb45816080c8f
