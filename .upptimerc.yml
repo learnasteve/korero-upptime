@@ -2,21 +2,7 @@
 owner: learnasteve # Your GitHub organization or username, where this repository lives
 repo: korero-upptime # The name of this repository
 
-status-website:
-  theme: dark
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: demo.upptime.js.org
-  baseUrl: /korero-upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Korero Upptime
-  introTitle: "**Korero Whanau**"
-  #introMessage: 
-  # navbar:
-  #   - title: Status
-  #     href: /
-  #   - title: GitHub
-  #     href: https://github.com/$OWNER/$REPO
+
 
 sites:
 
@@ -85,6 +71,22 @@ sites:
     url: https://lab.let.media.kyoto-u.ac.jp/korero/uranga/health
   - name: Uranga (db)
     url: https://lab.let.media.kyoto-u.ac.jp/korero/uranga/health/db
+
+status-website:
+  theme: dark
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  #cname: demo.upptime.js.org
+  baseUrl: /korero-upptime
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: Korero Upptime
+  introTitle: "**Korero Whanau**"
+  #introMessage: 
+  # navbar:
+  #   - title: Status
+  #     href: /
+  #   - title: GitHub
+  #     href: https://github.com/$OWNER/$REPO
 
 
 # Upptime also supports notifications, assigning issues, and more
