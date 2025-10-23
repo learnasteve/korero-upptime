@@ -26,7 +26,7 @@ sites:
     
   - name: Penny (app)
     url: https://lab.let.media.kyoto-u.ac.jp/korero/penny/health
-    icon: https://lab.let.media.kyoto-u.ac.jp/korero/static/tammy.jpg
+    icon: https://lab.let.media.kyoto-u.ac.jp/korero/static/tammy.jpgzw
   - name: Penny (llm)
     url: https://lab.let.media.kyoto-u.ac.jp/korero/penny/health/llm
   - name: Penny (db)
@@ -66,7 +66,7 @@ sites:
   #   url: https://lab.let.media.kyoto-u.ac.jp/korero/rex/health/db
 
     # services
-   - name: Huanui (login)
+  - name: Huanui (login)
     url: https://lab.let.media.kyoto-u.ac.jp/korero/alive
   - name: Uranga (dashboard)
     url: https://lab.let.media.kyoto-u.ac.jp/korero/uranga/health
