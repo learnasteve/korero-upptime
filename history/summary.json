@@ -130,35 +130,39 @@
     "url": "https://lab.let.media.kyoto-u.ac.jp/korero/uranga/health",
     "icon": "https://icons.duckduckgo.com/ip3/lab.let.media.kyoto-u.ac.jp.ico",
     "slug": "uranga-dashboard",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 149,
-    "timeDay": 149,
-    "timeWeek": 149,
-    "timeMonth": 149,
-    "timeYear": 149,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 407,
+    "timeDay": 407,
+    "timeWeek": 407,
+    "timeMonth": 407,
+    "timeYear": 407,
+    "dailyMinutesDown": {
+      "2025-10-23": 0
+    }
   },
   {
     "name": "Uranga (db)",
     "url": "https://lab.let.media.kyoto-u.ac.jp/korero/uranga/health/db",
     "icon": "https://icons.duckduckgo.com/ip3/lab.let.media.kyoto-u.ac.jp.ico",
     "slug": "uranga-db",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 151,
-    "timeDay": 151,
-    "timeWeek": 151,
-    "timeMonth": 151,
-    "timeYear": 151,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 152,
+    "timeDay": 152,
+    "timeWeek": 152,
+    "timeMonth": 152,
+    "timeYear": 152,
+    "dailyMinutesDown": {
+      "2025-10-23": 0
+    }
   }
 ]
