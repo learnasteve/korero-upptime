@@ -2,6 +2,9 @@
 owner: learnasteve # Your GitHub organization or username, where this repository lives
 repo: korero-upptime # The name of this repository
 
+status-website:
+  theme: dark
+
 sites:
   - name: Huanui (login)
     url: https://lab.let.media.kyoto-u.ac.jp/korero/alive
@@ -11,6 +14,7 @@ sites:
     url: https://lab.let.media.kyoto-u.ac.jp/korero/uranga/health/db
   - name: Tammy (app)
     url: https://lab.let.media.kyoto-u.ac.jp/korero/tammy/health
+    icon: https://lab.let.media.kyoto-u.ac.jp/korero/static/tammy.jpg
   - name: Tammy (llm)
     url: https://lab.let.media.kyoto-u.ac.jp/korero/tammy/health/llm
   - name: Tammy (db)
@@ -31,11 +35,11 @@ status-website:
   name: Korero Upptime
   introTitle: "**Korero Whanau**"
   #introMessage: 
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  # navbar:
+  #   - title: Status
+  #     href: /
+  #   - title: GitHub
+  #     href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
