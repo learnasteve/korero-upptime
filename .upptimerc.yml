@@ -95,7 +95,7 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 
 i18n:
-  footer: [Report an issue](https://forms.gle/LR2kzXJ9ghQ34uLr6)
+  footer: "[Report an issue](https://forms.gle/LR2kzXJ9ghQ34uLr6)"
 
 # TODO 
 # add location: https://gemini.google.com/app/680cb45816080c8f
