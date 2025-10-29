@@ -1,7 +1,7 @@
 url: https://lab.let.media.kyoto-u.ac.jp/korero/tammy/health/llm
-status: up
-code: 200
-responseTime: 1255
-lastUpdated: 2025-10-29T03:31:47.355Z
+status: down
+code: 404
+responseTime: 156
+lastUpdated: 2025-10-29T09:54:48.478Z
 startTime: 2025-10-23T05:59:21.909Z
 generator: Upptime <https://github.com/upptime/upptime>
