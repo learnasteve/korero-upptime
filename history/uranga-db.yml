@@ -1,7 +1,7 @@
 url: https://lab.let.media.kyoto-u.ac.jp/korero/uranga/health/db
-status: up
-code: 200
-responseTime: 173
-lastUpdated: 2025-11-06T23:16:20.122Z
+status: down
+code: 401
+responseTime: 144
+lastUpdated: 2025-11-07T10:45:00.345Z
 startTime: 2025-10-23T05:59:21.084Z
 generator: Upptime <https://github.com/upptime/upptime>
