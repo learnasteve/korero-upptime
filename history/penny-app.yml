@@ -1,7 +1,7 @@
 url: https://lab.let.media.kyoto-u.ac.jp/korero/penny/health
-status: down
-code: 503
-responseTime: 475
-lastUpdated: 2025-11-10T10:14:18.453Z
+status: up
+code: 200
+responseTime: 153
+lastUpdated: 2025-11-10T10:42:55.494Z
 startTime: 2025-10-23T05:59:23.806Z
 generator: Upptime <https://github.com/upptime/upptime>
