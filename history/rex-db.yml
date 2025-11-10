@@ -1,7 +1,7 @@
 url: https://lab.let.media.kyoto-u.ac.jp/korero/rex/health/db
-status: up
-code: 200
-responseTime: 119
-lastUpdated: 2025-11-10T06:36:00.694Z
+status: down
+code: 503
+responseTime: 487
+lastUpdated: 2025-11-10T10:14:48.320Z
 startTime: 2025-11-10T02:40:15.450Z
 generator: Upptime <https://github.com/upptime/upptime>
