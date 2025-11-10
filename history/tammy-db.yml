@@ -1,7 +1,7 @@
 url: https://lab.let.media.kyoto-u.ac.jp/korero/tammy/health/db
-status: down
-code: 503
-responseTime: 483
-lastUpdated: 2025-11-10T10:14:15.320Z
+status: up
+code: 200
+responseTime: 154
+lastUpdated: 2025-11-10T10:42:52.796Z
 startTime: 2025-10-23T05:59:23.149Z
 generator: Upptime <https://github.com/upptime/upptime>
