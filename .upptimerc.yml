@@ -45,9 +45,9 @@ sites:
     
   - name: Percy (app)
     url: https://lab.let.media.kyoto-u.ac.jp/korero/percy/health
-  #   icon: https://lab.let.media.kyoto-u.ac.jp/korero/static/percy.jpg
+    icon: https://lab.let.media.kyoto-u.ac.jp/korero/static/percy.jpg
   # - name: Percy (llm)
-    url: https://lab.let.media.kyoto-u.ac.jp/korero/percy/health/llm
+  #   url: https://lab.let.media.kyoto-u.ac.jp/korero/percy/health/llm
   - name: Percy (db)
     url: https://lab.let.media.kyoto-u.ac.jp/korero/percy/health/db
     
