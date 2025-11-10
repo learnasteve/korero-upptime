@@ -1,7 +1,7 @@
 url: https://lab.let.media.kyoto-u.ac.jp/korero/percy/health
-status: down
-code: 503
-responseTime: 476
-lastUpdated: 2025-11-10T10:14:33.215Z
+status: up
+code: 200
+responseTime: 154
+lastUpdated: 2025-11-10T10:43:09.528Z
 startTime: 2025-11-10T02:34:39.413Z
 generator: Upptime <https://github.com/upptime/upptime>
