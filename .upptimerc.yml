@@ -12,6 +12,7 @@ sites:
   #   url: https://lab.let.media.kyoto-u.ac.jp/korero/polly/health/llm
   - name: Polly (db)
     url: https://lab.let.media.kyoto-u.ac.jp/korero/polly/health/db
+    icon: https://lab.let.media.kyoto-u.ac.jp/korero/static/polly.jpg
     
   - name: Tammy (app)
     url: https://lab.let.media.kyoto-u.ac.jp/korero/tammy/health
@@ -42,6 +43,7 @@ sites:
   #   url: https://lab.let.media.kyoto-u.ac.jp/korero/archie/health/llm
   - name: Archie (db)
     url: https://lab.let.media.kyoto-u.ac.jp/korero/archie/health/db
+    icon: https://lab.let.media.kyoto-u.ac.jp/korero/static/archie.jpg
     
   - name: Percy (app)
     url: https://lab.let.media.kyoto-u.ac.jp/korero/percy/health
@@ -50,6 +52,7 @@ sites:
   #   url: https://lab.let.media.kyoto-u.ac.jp/korero/percy/health/llm
   - name: Percy (db)
     url: https://lab.let.media.kyoto-u.ac.jp/korero/percy/health/db
+    icon: https://lab.let.media.kyoto-u.ac.jp/korero/static/percy.jpg
     
   
   - name: Debbie (app)
@@ -57,8 +60,10 @@ sites:
     icon: https://lab.let.media.kyoto-u.ac.jp/korero/static/debbie.jpg
   # - name: Debbie (llm)
   #   url: https://lab.let.media.kyoto-u.ac.jp/korero/debbie/health/llm
+  #   icon: https://lab.let.media.kyoto-u.ac.jp/korero/static/debbie.jpg
   - name: Debbie (db)
     url: https://lab.let.media.kyoto-u.ac.jp/korero/debbie/health/db
+    icon: https://lab.let.media.kyoto-u.ac.jp/korero/static/debbie.jpg
     
   - name: Rex (app)
     url: https://lab.let.media.kyoto-u.ac.jp/korero/rex/health
@@ -67,6 +72,7 @@ sites:
   #   url: https://lab.let.media.kyoto-u.ac.jp/korero/rex/health/llm
   - name: Rex (db)
     url: https://lab.let.media.kyoto-u.ac.jp/korero/rex/health/db
+    icon: https://lab.let.media.kyoto-u.ac.jp/korero/static/rex.jpg
 
     # services
   - name: Huanui (login)
