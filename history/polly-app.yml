@@ -1,7 +1,7 @@
 url: https://lab.let.media.kyoto-u.ac.jp/korero/polly/health
-status: down
-code: 401
-responseTime: 687
-lastUpdated: 2026-03-25T03:14:00.019Z
+status: up
+code: 200
+responseTime: 656
+lastUpdated: 2026-03-25T10:09:22.027Z
 startTime: 2025-11-10T02:19:28.563Z
 generator: Upptime <https://github.com/upptime/upptime>
