@@ -1,7 +1,7 @@
 url: https://lab.let.media.kyoto-u.ac.jp/korero/debbie/health
-status: down
-code: 401
-responseTime: 169
-lastUpdated: 2026-03-25T03:14:11.588Z
+status: up
+code: 200
+responseTime: 160
+lastUpdated: 2026-03-25T10:09:38.150Z
 startTime: 2025-11-10T02:37:43.139Z
 generator: Upptime <https://github.com/upptime/upptime>
